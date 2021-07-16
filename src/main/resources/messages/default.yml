@@ -1,0 +1,10 @@
+meta:
+  name: 'DKCoinsCoinBooster English'
+  module: 'DKCoinsCoinBooster'
+  language:
+    name: 'English'
+    localizedName: 'English'
+    code: 'en'
+messages:
+  dkcoins.coinbooster.prefix: '&8» &6DKCoinsCoinBooster &8|&f'
+  dkcoins.coinbooster.boost: '${dkcoins.coinbooster.prefix} &7You have a boost of &e{boostPercent}%, &7you got &e{boostAmount} &7Coins more.'

@@ -97,6 +97,13 @@
         </repository>
     </repositories>
 
+    <distributionManagement>
+        <repository>
+            <id>pretronic</id>
+            <url>https://repository.pretronic.net/repository/pretronic/</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>org.mcnative.runtime.api</groupId>
